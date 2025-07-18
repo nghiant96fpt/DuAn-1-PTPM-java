@@ -21,7 +21,13 @@ public class MainFrame extends javax.swing.JFrame {
     
     public MainFrame() {
         initComponents();
+
         //acbabc
+
+        //        acbcacac
+//        acbcacac
+//        acbcacac
+
         this.initPanel();
     }
     
